@@ -1,0 +1,34 @@
+.grid {
+    position: absolute;
+    width: 560px;
+    height: 300px;
+    border: solid 10px goldenrod;
+    margin-top: 100px;
+    background-image: url("https://cdn.vectorstock.com/i/preview-lt/17/57/blue-cartoon-sky-background-cloud-flat-sky-vector-26611757.webp");
+  }
+  
+  .user {
+    position: absolute;
+    width: 100px;
+    height: 20px;
+    background-color: blueviolet;
+  }
+  
+  .block {
+    position: absolute;
+    width: 100px;
+    height: 20px;
+    background-color: blue;
+  }
+  
+  .ball {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    background-color: red;
+  }
+
+
+
+
